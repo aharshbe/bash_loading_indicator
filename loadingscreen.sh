@@ -7,7 +7,7 @@
 	progress of an intstalltion for software 
 	or another script.
 
-	** verticle and horozontal spacing can be
+	** vertical and horozontal spacing can be
 	modified to accomodate a difference size 
 	terminal window
 

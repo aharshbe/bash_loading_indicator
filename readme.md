@@ -1,7 +1,7 @@
 # Loading Indicator Script 
 ## Purpose
 * A loading indicator to show the progress of an installation for a given application or other script
-* Script is formatted for a terminal window of size `120x50`. Verticle and horozontal spacing can be modified to accomadate a difference size terminal window if need be.
+* Script is formatted for a terminal window of size `120x50`. Vertical and horozontal spacing can be modified to accomadate a difference size terminal window if need be.
 
 ### Usage:
 * Clone repo, e.g., `git clone Repo_URL`
