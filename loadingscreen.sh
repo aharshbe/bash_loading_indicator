@@ -15,7 +15,7 @@
 	09-17-2018
 '
 
-# Function to format verticle space
+# Function to format vertical space
 # (for centering the prompt on the screen)
 formatting_space_verticle()
 {
@@ -27,7 +27,7 @@ formatting_space_verticle()
 	i=0
 }
 
-# Function to format horozontal space
+# Function to format horizontal space
 # (for centering the prompt on the screen)
 formatting_space_horozonal()
 {
