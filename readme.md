@@ -6,7 +6,7 @@
 ### Usage:
 * Clone repo, e.g., `git clone Repo_URL`
 * open terminal and `cd` into cloned repo
-*  type `./loadingscreen.sh` to run troubleshooter
+*  type `./loadingscreen.sh` to run loading animation
 
 ### Example:
 
