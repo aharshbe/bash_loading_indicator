@@ -8,9 +8,8 @@
 *  type `./loadingscreen.sh` to run troubleshooter
 
 ### Example:
-<iframe width="450" height="250" src="https://www.youtube.com/embed/oxmKa1qp35E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[![Watch Video](https://www.youtube.com/embed/oxmKa1qp35E/watch?v=VID)
+[![Watch Video](https://www.youtube.com/embed/oxmKa1qp35E/watch?v=VID)]
 
 <a href='https://youtu.be/oxmKa1qp35E'>Video URL</a>
 
