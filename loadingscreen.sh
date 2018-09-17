@@ -1,10 +1,10 @@
 #!/bin/bash
 
 : '
-	This is a script which creates a Loading
-	screen in the cernter of a terminal in order
-	to emulate the progress of an intstalltion of
-	software or another script
+	This is a script which creates a loading
+	screen in the center of a terminal window
+	in order to emulate the progress of an 
+	intstalltion of software or another script
 
 	Created by Austin Harshberger
 	09-17-2018

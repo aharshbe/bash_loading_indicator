@@ -1,6 +1,6 @@
 # Loading Indicator Script 
 ## Purpose
-* A loading indicator to show progress of installation of application or other script
+* A loading indicator to show the progress of an installation for a given application or other script
 
 ### Usage:
 * Clone repo, e.g., `git clone Repo_URL`
