@@ -7,5 +7,8 @@
 * open terminal and `cd` into cloned repo
 *  type `./loadingscreen.sh` to run troubleshooter
 
+### Example:
+
+
 #### Author:
 * Austin Harshberger
