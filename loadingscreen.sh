@@ -4,12 +4,14 @@
 	This is a script which creates a loading
 	screen in the center of a terminal window
 	in order to emulate the progress of an 
-	intstalltion of software or another script
+	intstalltion for software or another script
 
 	Created by Austin Harshberger
 	09-17-2018
 '
 
+# Function to format verticle space
+# (for centering the prompt on the screen)
 formatting_space_verticle()
 {
 	until [[ $i -gt 25 ]]
@@ -20,11 +22,14 @@ formatting_space_verticle()
 	i=0
 }
 
+# Function to format horozontal space
+# (for centering the prompt on the screen)
 formatting_space_horozonal()
 {
 	echo -n "                                                 "
 }
 
+# Variables
 var=0
 i=0
 dot='.'
