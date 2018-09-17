@@ -47,8 +47,10 @@ until [ $var -gt 100 ]
 do
 	formatting_space_verticle
 	formatting_space_horozonal
+	
 	echo $var"% complete. Loading"$dot
 	sleep $speed_of_loading
+	
 	var=$((var+1))
 	if [[ $dot_num -lt 4 ]]; then
 		dot_num=$((dot_num+1))
@@ -57,11 +59,13 @@ do
 		dot_num=0
 		dot='.'
 	fi
+	
 	clear
 done
 
 formatting_space_verticle
 formatting_space_horozonal
+
 echo "Loading complete."
 
 sleep 3
