@@ -8,7 +8,9 @@
 *  type `./loadingscreen.sh` to run troubleshooter
 
 ### Example:
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/oxmKa1qp35E)
+<iframe width="450" height="250" src="https://www.youtube.com/embed/oxmKa1qp35E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a href='https://youtu.be/oxmKa1qp35E'>Video URL</a>
 
 #### Author:
 * Austin Harshberger
