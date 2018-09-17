@@ -3,8 +3,13 @@
 : '
 	This is a script which creates a loading
 	screen in the center of a terminal window
-	in order to emulate the progress of an 
-	intstalltion for software or another script
+	of size 120x50 in order to emulate the 
+	progress of an intstalltion for software 
+	or another script.
+
+	** verticle and horozontal spacing can be
+	modified to accomadate a difference size 
+	terminal window
 
 	Created by Austin Harshberger
 	09-17-2018
