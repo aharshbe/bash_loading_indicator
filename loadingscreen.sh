@@ -52,6 +52,7 @@ do
 	sleep $speed_of_loading
 	
 	var=$((var+1))
+	
 	if [[ $dot_num -lt 4 ]]; then
 		dot_num=$((dot_num+1))
 		dot+='.'
