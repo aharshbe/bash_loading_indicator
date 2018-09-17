@@ -8,7 +8,7 @@
 *  type `./loadingscreen.sh` to run troubleshooter
 
 ### Example:
-
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/oxmKa1qp35E)
 
 #### Author:
 * Austin Harshberger
