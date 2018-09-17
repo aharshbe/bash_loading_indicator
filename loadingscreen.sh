@@ -8,7 +8,7 @@
 	or another script.
 
 	** vertical and horizontal spacing can be
-	modified to accomodate a difference size 
+	modified to accomodate a different size 
 	terminal window
 
 	Created by Austin Harshberger
