@@ -8,7 +8,7 @@
 	or another script.
 
 	** verticle and horozontal spacing can be
-	modified to accomadate a difference size 
+	modified to accomodate a difference size 
 	terminal window
 
 	Created by Austin Harshberger
